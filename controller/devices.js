@@ -1,5 +1,4 @@
 const mongoose = require('mongoose');
-const safeEval = require('safe-eval')
 
 const Device = mongoose.model('Device');
 

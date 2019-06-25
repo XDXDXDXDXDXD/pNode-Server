@@ -10,7 +10,6 @@
     "google-spreadsheet": "2.0.4",
     "jsonwebtoken": "8.1.0",
     "mongoose": "4.13.4",
-    "safe-eval": "0.3.0",
     "ws": ">=3.3.1"
   }
 }
