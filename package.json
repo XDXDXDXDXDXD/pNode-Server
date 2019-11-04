@@ -9,7 +9,7 @@
     "express": "4.16.2",
     "google-spreadsheet": "2.0.4",
     "jsonwebtoken": "8.1.0",
-    "mongoose": "4.13.4",
+    "mongoose": "5.7.7",
     "ws": ">=3.3.1"
   }
 }
